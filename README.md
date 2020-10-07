@@ -1,1 +1,1 @@
-# Boaard-game-reviews-prediction
+# Board-game-reviews-prediction
